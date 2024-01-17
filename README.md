@@ -17,4 +17,5 @@ III - Consult and change mode of script
 - sudo chmod +x unifi-latest.sh
 - ls -al
 - sudo ./unifi-latest.sh
+- 
 NB: Be carefull to type yes or no if it's needed
