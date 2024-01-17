@@ -12,8 +12,10 @@ II - Download script
 - wget https://get.glennr.nl/unifi/install/install_latest/unifi-latest.sh
 or
 - https://github.com/El-Jean4Real/UnifiControllerServer_Ubuntu22.04/blob/main/unifi-latest.sh
-for 
-- 
+
+for version Unifi 8.0.26
+
+- https://github.com/El-Jean4Real/UnifiControllerServer_Ubuntu22.04/blob/main/unifi-8.0.26.sh
 
 III - Consult and change mode of script
 
