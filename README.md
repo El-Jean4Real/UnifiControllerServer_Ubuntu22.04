@@ -10,6 +10,10 @@ I - Update system and Upgrade system
 II - Download script
 
 - wget https://get.glennr.nl/unifi/install/install_latest/unifi-latest.sh
+or
+- https://github.com/El-Jean4Real/UnifiControllerServer_Ubuntu22.04/blob/main/unifi-latest.sh
+for 
+- 
 
 III - Consult and change mode of script
 
